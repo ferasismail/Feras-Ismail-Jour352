@@ -1,3 +1,5 @@
+<!--styles for my resume-->
+
 body {
   font-size:1em;
   font-family:'opensans',arial,sans-serif;
@@ -5,42 +7,72 @@ body {
   font-weight:400;
 }
 
+<!-- my name at the top -->
 h1 {
   font-size:3.5em;
   color:#33485e;
   text-transform:uppercase;
   text-align: center;
+  font-family:'opensans',arial,sans-serif;
 }
 
+<!-- text that says journalist -->
 strong {
   font-size:2em;
   color:#33485e;
   text-transform:uppercase;
+  font-family:'opensans',arial,sans-serif;
 }
 
+<!-- no image -->
 img {
   display: none;
 }
 
+<!-- section titles -->
 h2 {
   font-size: 1.5em;
   text-transform:uppercase;
   background-color:#33485e;
   color:white;
   font-weight:400;
+  font-family:'opensans',arial,sans-serif;
 }
 
+<!-- job titles -->
 h3 {
   font-weight:600;
   font-size:2em;
+  font-family:'opensans',arial,sans-serif;
 }
 
+<!-- organizations -->
 h4 {
   font-weight:400;
   font-size:1.5em;
+  font-family:'opensans',arial,sans-serif;
 }
 
+<!-- dates -->
 h5 {
   font-weight:400;
   font-size:1em;
+  font-family:'opensans',arial,sans-serif;
+  font-style:italic;
+}
+
+<!-- paragraphs -->
+p {
+    font-weight:400;
+    font-size: 1em;
+    font-family:'opensans',arial,sans-serif;
+    font-color:#444;
+  }
+
+<!-- lists -->
+ul li {
+  font-weight:400;
+  font-size: 1em;
+  font-family:'opensans',arial,sans-serif;
+  font-color:#444;
 }
