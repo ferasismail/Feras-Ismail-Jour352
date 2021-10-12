@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 
+=======
+/* styles for my resume */
+>>>>>>> 94591d7bac16f7f766196189e38c5523220f0f18
 body {
   font-size:1em;
   font-family:'opensans',arial,sans-serif;
@@ -7,7 +11,7 @@ body {
   font-weight:400;
 }
 
-<!-- my name at the top -->
+/* my name at the top */
 h1 {
   font-size:3.5em;
   color:#33485e;
@@ -16,7 +20,7 @@ h1 {
   font-family:'opensans',arial,sans-serif;
 }
 
-<!-- text that says journalist -->
+/* text that says journalist */
 strong {
   font-size:2em;
   color:#33485e;
@@ -24,12 +28,12 @@ strong {
   font-family:'opensans',arial,sans-serif;
 }
 
-<!-- no image -->
+/* no image */
 img {
   display: none;
 }
 
-<!-- section titles -->
+/* section titles */
 h2 {
   font-size: 1.5em;
   text-transform:uppercase;
@@ -39,21 +43,21 @@ h2 {
   font-family:'opensans',arial,sans-serif;
 }
 
-<!-- job titles -->
+/* job titles */
 h3 {
   font-weight:600;
   font-size:2em;
   font-family:'opensans',arial,sans-serif;
 }
 
-<!-- organizations -->
+/* organizations */
 h4 {
   font-weight:400;
   font-size:1.5em;
   font-family:'opensans',arial,sans-serif;
 }
 
-<!-- dates -->
+/* dates */
 h5 {
   font-weight:400;
   font-size:1em;
@@ -61,7 +65,7 @@ h5 {
   font-style:italic;
 }
 
-<!-- paragraphs -->
+/* paragraphs */
 p {
     font-weight:400;
     font-size: 1em;
@@ -69,7 +73,7 @@ p {
     font-color:#444;
   }
 
-<!-- lists -->
+/* lists */
 ul li {
   font-weight:400;
   font-size: 1em;
