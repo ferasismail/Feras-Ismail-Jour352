@@ -1,0 +1,38 @@
+/* page wrapper div that centers all my content */
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#bydate {
+  font-family:"Times New Roman", Times, serif;
+  font-size: 14px
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+p {
+  font-family: 'helvetica', arial, sans-serif;
+  font-size: 12px;
+}
+
+blockquote {
+  font-size: 16px;
+  font-family: 'helvetica', arial, sans-serif;
+  font-style: italic;
+}
